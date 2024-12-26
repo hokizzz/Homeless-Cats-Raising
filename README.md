@@ -121,11 +121,11 @@ python3 app.py
 
 ### （二）运行face\_main.py
 
-1\.在新窗口上载入你存储catface\_master文件夹的位置；
+1\.在新窗口上载入你存储catface_master文件夹的位置；
 
 2\.输入
 ```
-python3 face\_main.py
+python3 face_main.py
 ```
 
 3\.在猫粮盒前展示猫脸图片；
