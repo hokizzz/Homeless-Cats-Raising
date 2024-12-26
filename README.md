@@ -84,6 +84,8 @@ SDK to PIN17
 
 螺旋下料器：
 
+![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/Spiral%20machine.jpg)
+
 步进马达：
 
 压力传感器：
