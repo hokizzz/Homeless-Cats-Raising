@@ -54,6 +54,8 @@
 
 <https://blog.csdn.net/m0_52909281/article/details/123149339>
 
+![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/uln2003%20driver.jpg)
+
 使用BCM编码
 
 IN1 to PIN5   
