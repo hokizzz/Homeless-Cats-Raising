@@ -92,9 +92,15 @@ SDK to PIN17
 
 压力传感器：
 
+![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/hx711%20module.jpg)
+
 猫粮盒：
 
+![image]()
+
 Pi Camera和Raspberry Pi：
+
+![image]()
 
 外型可以模块化生产，然后美美组装就ok了。
 
