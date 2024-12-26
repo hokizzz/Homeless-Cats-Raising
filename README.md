@@ -70,7 +70,7 @@ IN4 to PIN19
 
 <https://blog.csdn.net/weixin_47082836/article/details/113199129?spm=1001.2014.3001.5502>
 
-
+![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/hx711.jpg)
 
 使用BCM编码:
 
