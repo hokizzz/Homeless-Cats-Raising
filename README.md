@@ -6,7 +6,7 @@
 
 ## 二、技术路线图：
 
-
+![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/technical%20route.png)
 
 ## 三、环境搭建：
 
