@@ -174,6 +174,8 @@ python3 face_main.py
 
 <https://blog.csdn.net/qq_52859223/article/details/123701798>
 
+<https://github.com/ppogg/YOLOv5-Lite>
+
 8\.猫脸识别：
 
 <https://blog.csdn.net/qq_51118755/article/details/137698608?spm=1001.2014.3001.5502>
