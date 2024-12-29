@@ -88,7 +88,7 @@ SDK to PIN17
 
 步进马达：
 
-![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/StepMotor.jpg)
+![image](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/StepMotor.jpg)
 
 压力传感器：
 
