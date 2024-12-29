@@ -6,7 +6,7 @@
 
 ## 二、技术路线图：
 
-![image]([https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/technical%20route.png](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/technical%20route.png))
+![image](Photos/technical route.png)
 
 ## 三、环境搭建：
 
