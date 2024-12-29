@@ -144,6 +144,8 @@ python3 face_main.py
 
 ## 六、我的视频：
 
+<https://www.bilibili.com/video/BV1nz6tYHE7y/?vd_source=8868d18b1f83107438eba5b3318225a9>
+
 ## 七、参考资料：
 
 1\.Raspberry OS和OpenCV 4.5.2安装：
