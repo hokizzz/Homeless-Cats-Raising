@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# Time : 2024/2/1 15:35
-# Author : lirunsheng
-# User : l'r's
-# Software: PyCharm
-# File : pagination.py.py
+
 """
 自定义的分页组件，以后如果想要使用这个分页组件，你需要做如下几件事：
 
