@@ -84,7 +84,7 @@ SDK to PIN17
 
 螺旋下料器：
 
-![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/Spiral%20machine.jpg)
+![image](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/Spiral%20machine.jpg)
 
 步进马达：
 
