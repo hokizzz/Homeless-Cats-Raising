@@ -92,7 +92,7 @@ SDK to PIN17
 
 压力传感器：
 
-![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/hx711%20module.jpg)
+![image](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/hx711%20module.jpg)
 
 猫粮盒：
 
