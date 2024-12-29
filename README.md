@@ -96,7 +96,7 @@ SDK to PIN17
 
 猫粮盒：
 
-![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/Storage.jpg)
+![image](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/Storage.jpg)
 
 Pi Camera和Raspberry Pi：
 
