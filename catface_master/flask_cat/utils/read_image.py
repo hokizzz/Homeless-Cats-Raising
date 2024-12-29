@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# Time : 2024/12/24 23:07
-# Author : lirunsheng
-# User : l'r's
-# Software: PyCharm
-# File : read_image.py
+
 import os
 import pandas as pd
 import base64
