@@ -100,7 +100,7 @@ SDK to PIN17
 
 Pi Camera和Raspberry Pi：
 
-![image](https://github.com/hokizzz/Homeless-Cats-Raising/blob/main/Pi%20Camera.jpg)
+![image](https://github.com/hokizzz/IoT-Project-Homeless_Cats_Raising/blob/main/Photos/Pi%20Camera.jpg)
 
 外型可以模块化生产，然后美美组装就ok了。
 
